@@ -1319,12 +1319,7 @@ hr {
   height: auto;
 }
 
-/* For smaller screens, make the columns stack */
-@media (max-width: 767px) {
-  .col-md-4 {
-    flex: 0 0 100%; /* Stack columns on smaller screens */
-  }
-}
+
 
 /* Contact Area Styles */
 .contact-area {
